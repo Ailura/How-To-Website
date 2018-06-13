@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+h1 {color: blue;
+font-style: times}
+
+
+
+
+
+.menu ul {
+  list-style-type: none;
+  display: inline-flex;
+}
