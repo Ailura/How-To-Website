@@ -17,6 +17,11 @@ font-style: times}
   display: inline-flex;
 }
 
-.menu li {padding: 10px}
+.menu li {padding: 10px
+}
 
-.menu a {text-decoration: none;}
+.menu a {text-decoration: none;
+}
+
+.menu a:hover {font-weight: bolder;
+}
